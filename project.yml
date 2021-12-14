@@ -9,7 +9,7 @@ settings:
     langs: ja-jp,us-en,zh-cn
 sidebar:
   entries:
-  - title: Astra 自動ドキュメント
+  - title: Astra Control Automation 21.08 のドキュメント
     url: "/index.html"
   - section: rn
   - section: intro
