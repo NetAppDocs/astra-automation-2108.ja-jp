@@ -6,6 +6,7 @@ summary:
 ---
 = その他のリソース
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
