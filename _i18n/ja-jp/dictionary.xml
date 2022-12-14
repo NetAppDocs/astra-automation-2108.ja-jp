@@ -170,8 +170,6 @@
   <block id="352836aad17f0db4217873eb0a9524b3" category="paragraph">Web サービスのクライアントとサーバの間で情報を構造化して転送する方法は複数ありますが、最も広く使用されているのは JavaScript Object Notation （ JSON ）です。JSON は、単純なデータ構造をプレーンテキストで表すための業界標準であり、リソースについての状態情報の転送に使用されます。Astra Control REST API では、 JSON を使用して、各 HTTP 要求と応答の本文で伝送されるデータをフォーマットします。</block>
   <block id="916bff7b68625feaff0fa92152a8c4f0" category="doc">URL 形式</block>
   <block id="94fd56b370187429c8fbd312f50f5c1b" category="paragraph">REST API を使用したリソースインスタンスまたはコレクションへのアクセスに使用される URL の一般的な構造は、いくつかの値で構成されます。この構造は、基礎となるオブジェクトモデルとシステム設計を反映しています。</block>
-  <block id="04af7c5cae35340b12ac2ff18f2993fb" category="section-title">URL の形式</block>
-  <block id="3e0ab85384ebe4f846202e772b341dc5" category="paragraph">URL の形式と例を次に示します。</block>
   <block id="6e84a7dae5ae82dd22a0ec6f456dbc8d" category="section-title">root としてアカウントを作成します</block>
   <block id="e166d573b25ce4160633b91145d1eae5" category="paragraph">すべての REST エンドポイントへのリソースパスのルートは Astra アカウントです。そして、 URL 内のすべてのパスは「 /account/{account_id} 」で始まります。ここで、「 account_id 」はアカウントの一意の UUIDv4 値です。内部構造：すべてのリソースアクセスが特定のアカウントに基づいている設計を反映します。</block>
   <block id="faf17fd8415851163c880ffe0eee8b37" category="section-title">エンドポイントリソースカテゴリ</block>
@@ -576,7 +574,6 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知ファイルには、ネットアップソフトウェアで使用されるサードパーティの著作権およびライセンスに関する情報が記載されています。</block>
   <block id="fbd3ad11889bebf7ba34d30c64465dc9" category="inline-link">Astra の通知</block>
   <block id="b571cab532f203c4ad9f53bdd8a27935" category="paragraph"><block ref="b571cab532f203c4ad9f53bdd8a27935" category="inline-link-rx"></block></block>
-  <block id="c59ae8d7beeb519a23478ab048af482c" category="paragraph"><block ref="c59ae8d7beeb519a23478ab048af482c" category="inline-link-macro-rx"></block></block>
   <block id="e81b0f8fae224ca0c3d3258b75a989dd" category="section-title">Astra Control API ライセンス</block>
   <block id="8814863051032c96890d514b89b4519c" category="paragraph">Astra Control REST API には、定義されたクエリパラメータを使用してリソースコレクションにアクセスするためのさまざまな方法があります。</block>
   <block id="bf14a6bb5484aa858662864c8b0d062f" category="section-title">値の選択</block>
@@ -759,4 +756,6 @@
   <block id="f05754a1ff0413a18fba9fcecbf43b4d" category="sidebar">API トークンを取得しています</block>
   <block id="fda120b29e48b5fb403036f2c330ff07" category="sidebar">Astra Control Automation 21.08 のドキュメント</block>
   <block id="c93cc787737ceea532bea714170e32cf" category="doc">Astra Control REST API の新機能</block>
+  <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">このタスクについて</block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完了後</block>
 </blocks>
