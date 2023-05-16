@@ -20,5 +20,5 @@ summary:
 
 * link:../rn/whats_new.html["Astra Control REST API の新機能"]
 * link:../endpoints/resources.html["リソースとエンドポイント"]
-* https://docs.netapp.com/us-en/astra-control-center-2108/["Astra Control Center 2108 のマニュアル"^]
+* https://["Astra Control Center 2108 のマニュアル"^]
 
