@@ -28,7 +28,7 @@ Astra アカウントのクレデンシャルが必要です。
 .手順
 . アカウントのクレデンシャルを使用して Astra にサインインします。
 +
-Astra Control Service の次のサイトにアクセスします。 https://["https://astra.netapp.io"^]
+Astra Control Service の次のサイトにアクセスします。 https://astra.netapp.io/["https://astra.netapp.io"^]
 
 . ページの右上にある図のアイコンをクリックし、 * API access * を選択します。
 . ページで [API トークンの生成 ] をクリックし、ポップアップウィンドウで [API トークンの生成 ] をクリックします。

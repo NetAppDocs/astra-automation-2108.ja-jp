@@ -20,15 +20,15 @@ summary:
 
 == アストラ
 
-* https://["Astra Control Center 2108 のマニュアル"^]
+* https://docs.netapp.com/us-en/astra-control-center-2108/["Astra Control Center 2108 のマニュアル"^]
 +
 お客様の施設に導入された Astra Control Center ソフトウェアのドキュメント。
 
-* https://["Astra Control Service のマニュアル"^]
+* https://docs.netapp.com/us-en/astra-control-service/["Astra Control Service のマニュアル"^]
 +
 パブリッククラウドで利用可能な Astra Control Service ソフトウェアのドキュメント。
 
-* https://["Astra Trident のドキュメント"^]
+* https://docs.netapp.com/us-en/trident/["Astra Trident のドキュメント"^]
 +
 ネットアップが管理している Astra Trident オープンソースストレージオーケストレーションツールのドキュメント
 
@@ -38,15 +38,15 @@ summary:
 
 == ネットアップのクラウドリソース
 
-* https://["ネットアップのクラウドソリューション"^]
+* https://cloud.netapp.com/["ネットアップのクラウドソリューション"^]
 +
 ネットアップのクラウドソリューションの中心的なサイト。
 
-* https://["NetApp Cloud Central コンソール"^]
+* https://services.cloud.netapp.com/redirect-to-login?startOnSignup=false["NetApp Cloud Central コンソール"^]
 +
 NetApp Cloud Central サービスコンソールにサインインします。
 
-* https://["ネットアップサポート"^]
+* https://mysupport.netapp.com/["ネットアップサポート"^]
 +
 トラブルシューティングツール、ドキュメント、およびテクニカルサポートにアクセスできます。
 
@@ -56,15 +56,15 @@ NetApp Cloud Central サービスコンソールにサインインします。
 
 == REST の概念とクラウドテクノロジ
 
-* 博士 https://["失策"^] 著者 : Roy Fielding オリジナル版を読む
+* 博士 https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm["失策"^] 著者 : Roy Fielding オリジナル版を読む
 +
 本ドキュメントでは、 REST アプリケーション開発モデルを導入および確立しました。
 
-* https://["Auth0"^]
+* https://auth0.com/["Auth0"^]
 +
 これは、 Astra サービスが Web アクセスに使用する認証および認可プラットフォームサービスです。
 
-* https://["RFC エディタ"^]
+* https://www.rfc-editor.org/["RFC エディタ"^]
 +
 独自に番号付けされた RFC 文書の集合として維持されている Web およびインターネット標準の信頼できるソース。
 

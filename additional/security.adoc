@@ -47,7 +47,7 @@ Astra サービスのアカウントが必要です。また、取り消すト�
 .手順
 . アカウントのクレデンシャルを使用して Astra にサインインします。
 +
-Astra Control Service の次のサイトにアクセスします。 https://["https://astra.netapp.io"^]
+Astra Control Service の次のサイトにアクセスします。 https://astra.netapp.io/["https://astra.netapp.io"^]
 
 . ページの右上にある図のアイコンをクリックし、 * API access * を選択します。
 . 取り消すトークンまたはトークンを選択します。
