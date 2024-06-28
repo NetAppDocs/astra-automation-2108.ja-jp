@@ -266,7 +266,6 @@
   <block id="7d88293618d45c51062ebb23f7a5777d" category="list-text">ページの右上にある図のアイコンをクリックし、 * API access * を選択します。</block>
   <block id="a242cf3d90ad638fe0e23d9477b74175" category="list-text">ページの上部で、 * API ドキュメント * の下に表示される URL をクリックします。</block>
   <block id="1cafd580155ad918d6c525c18cc8e5e6" category="list-text">プロンプトが表示されたら、アカウントのクレデンシャルを再度入力し</block>
-  <block id="c6c51849eeb1ac322baa3a99b7cd7e43" category="summary">Astra Automation の概要です。</block>
   <block id="832210201d55f5c764a32c055a00b726" category="doc">Astra Control Automation 21.08 ドキュメント</block>
   <block id="f33f60a3b5c95e8659ec5a992f0f055c" category="doc">アプリの管理を解除します</block>
   <block id="2b194b9170143eb845c618e13f34e5fb" category="paragraph">管理対象アプリが不要になった場合は削除できます。管理アプリケーションを削除すると、関連付けられているスケジュールも削除されます。</block>
@@ -766,4 +765,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="775e2faa120631457b3eb5f26a2f323a" category="sidebar">Astra Controlは、Kubernetesアプリケーションのデータライフサイクル管理を可能にするネットアップのソフトウェア製品です。環境に応じて2種類の導入モデルがあります。Astra Control CenterとAstra Control Serviceは、同じREST APIを特定のリリースで共有します。APIやその他の関連する自動化テクノロジを使用して、Astra Control環境を管理できます。</block>
 </blocks>
